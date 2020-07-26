@@ -1,0 +1,10 @@
+@media (max-width: 768px) {
+  .embed-responsive.embed-responsive-16by9 {
+    display: none;
+  }
+}
+
+.embed-responsive.embed-responsive-16by9 {
+  /*display: block;*/
+}
+
